@@ -1,0 +1,23 @@
+dateModified: 1721719947
+email:
+  fromEmail: ksp2001961@gmail.com
+  fromName: pavan
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    683afa82-c0ce-4aac-9537-0ebaed65092d: pavan # pavan
+    39778476-69de-41e7-8681-5e26615745c1: 'Public Schema' # Public Schema
+    f8fe67ee-0217-4d6f-9e59-4ae19771988f: pavan # pavan
+system:
+  edition: solo
+  live: true
+  name: pavan
+  schemaVersion: 5.0.0.21
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
